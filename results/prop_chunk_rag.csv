@@ -1,0 +1,903 @@
+,questions,generated_answers,reference_answers,documents,correctness,groundedness,relevance,retrieval_relevance
+0,what percent of people are overweight in the uk?,64.0%,uk,"The data shows the percentage of adults in England who were overweight or living with obesity, by ethnicity.
+
+In 2022 to 2023, 64.0% of adults aged 18 years and over in England were estimated to be overweight or living with obesity.
+
+The percentage of adults overweight or living with obesity in England was up by 0.5% from the previous year.
+
+70.8% of black adults were overweight or living with obesity in England.
+
+Main findings Prevalence of overweight and obesity in adults aged 18 years and over in England.",1,3,5,4
+1,who won the battle of gettysburg union or confederate?,Union,Union,"Union and Confederate forces participated in the Battle of Gettysburg.
+
+The Union won the Battle of Gettysburg.
+
+The Union won a decisive victory at Gettysburg, July 1–3.
+
+The Battle of Gettysburg ended Union victory.
+
+The Battle of Gettysburg",5,1,5,4
+2,what did george washington do as a teenager?,"compiled rules for social interaction, practiced penmanship, comportment, and mathematics through school exercises, and gained self-reliance as a surveyor.",Surveyor,"George Washington completed many school exercises in penmanship, comportment, and mathematics during his early teenage years.
+
+As a teenager, George Washington compiled over a hundred rules for social interaction.
+
+George Washington's experiences in his youth helped shape the man who would lead a revolution and become the first president of the United States.
+
+George Washington spent much of his youth at Ferry Farm.
+
+George Washington's experiences as a surveyor taught him to be self-reliant at a young age.",5,4,5,4
+3,what is the name of the capital of belgium?,Brussels,City of Brussels,"The City of Brussels is the capital of Belgium.
+
+Brussels is the capital of Belgium.
+
+Brussels is the capital of Belgium.
+
+Brussels is Belgium's economic capital.
+
+The city of Brussels functions as the capital of the Flemish Region.",1,1,5,5
+4,who does darth vaders voice?,James Earl Jones,James Earl Jones,"Darth Vader is a fictional character in the Star Wars franchise.
+
+The character Darth Vader appears in novels, comics, and video games.
+
+James Earl Jones provides Darth Vader's voice in all of the films and some television series.
+
+In the standalone film Rogue One (2016), Darth Vader is portrayed by Spencer Wilding and Daniel Naprous.
+
+Darth Vader was first introduced in the original film trilogy as one of the leaders of the Galactic Empire.",5,3,5,4
+5,who was the italian leader in ww1?,Antonio Salandra,Benito Mussolini,"Victor Emmanuel III played an important part in Italy's decision to intervene in World War I on the side of the Entente.
+
+Italy decided to remain neutral during World War I.
+
+At the outbreak of the First World War, Victor Emmanuel III supported the decision of Italian Prime Minister Antonio Salandra to remain neutral.
+
+Salandra brought Italy into the war on the side of the Allies in May 1915.
+
+Victor Emmanuel III defended Italy's position within the Entente after the Caporetto disaster.",1,1,5,3
+6,where is harley davidson corporate headquarters?,"Milwaukee, Wisconsin, United States.",Milwaukee,"The factory is at the current location of Harley-Davidson's corporate headquarters.
+
+The original factory was at the current location of Harley-Davidson's corporate headquarters.
+
+Harley-Davidson, Inc. is headquartered in Milwaukee, Wisconsin, United States.
+
+Harley-Davidson, Inc. is an American motorcycle manufacturer.
+
+Harley-Davidson has a company-sponsored, brand-focused museum.",4,1,5,3
+7,where did francisco coronado come from?,New Spain,Salamanca,"Francisco Vázquez de Coronado went to New Spain in 1535 at about age 25.
+
+Francisco Vázquez de Coronado went to New Spain in 1535 at about age 25.
+
+Francisco Vázquez de Coronado set out from Compostela on February 23, 1540.
+
+Francisco Vazquez de Coronado's early history is somewhat uncertain.
+
+Francisco Vazquez de Coronado was thought to have been born in 1510.",1,1,5,2
+8,what was the ancient chinese writing system?,logographic,Sino-Tibetan languages,"Written Chinese is a writing system that uses Chinese characters and other symbols to represent the Chinese languages.
+
+By the Shang dynasty, Chinese writing was already a highly developed system.
+
+Chinese writing is a logographic writing system.
+
+Chinese writing is one of the world's great writing systems.
+
+The earliest writing in Chinese consisted of carved inscriptions.",1,1,3,3
+9,what did thomas hobbes do?,philosopher,Political philosophy,"Hobbes did
+
+Thomas Hobbes was a thinker with wide-ranging interests.
+
+Thomas Hobbes was a scientist and philosopher.
+
+Thomas Hobbes was a philosopher.
+
+Thomas Hobbes was an English philosopher, scientist, and historian.",1,3,1,2
+10,who is the state governor of florida?,Ron DeSantis,Rick Scott,"The governor of Florida is the head of government of the U.S. state of Florida.
+
+Ron DeSantis is the current governor of Florida.
+
+Ron DeSantis is the Governor of Florida.
+
+The governor of Florida has a duty to enforce state laws.
+
+The governor of Florida is the commander-in-chief of the state's military forces.",1,1,5,2
+11,what was the cause of death for bruce lee?,brain edema,Cerebral edema,"Bruce Lee died under mysterious circumstances.
+
+The cause of Bruce Lee's death is unknown.
+
+Bruce Lee's death was under mysterious circumstances.
+
+Bruce Lee's death was under mysterious circumstances.
+
+Bruce Lee's career was cut short by his sudden death at age 32 from a brain edema.",2,1,5,1
+12,what type of government did mexico have?,federal republic,Federal republic,"Mexico has a tradition of highly centralized government.
+
+Governmental powers in Mexico are divided constitutionally between executive, legislative, and judicial branches.
+
+The executive branch of Mexico has historically dominated the other two branches of government.
+
+Mexico is a federal republic composed of 31 states and the Federal District.
+
+Under PRI rule, Mexican presidents influenced or decided many state and local matters, including elections.",1,1,5,3
+13,what kind of hispanic is selena gomez?,Mexican,Mexicans,"Offscreen, Selena has been a vocal supporter of her heritage.
+
+Selena is proud of her heritage every month.
+
+Selena Gomez plays Mabel Mora.
+
+Selena uses her platforms, including her Rare Beauty brand, to spread messages of unity during a time when society has become greatly segregated.
+
+Selena says her community should feel proud of their heritage every day of the year.",1,1,5,2
+14,what season did lana lang leave smallville?,5,Smallville - Season 8,"Lana Lang is a fictional character on the television series Smallville.
+
+Lana leaves Smallville for good.
+
+The character of Lana Lang has appeared in various literature based on the Smallville television series.
+
+The decisions made by Clark and Lex change Lana Lang over the course of the show.
+
+Lana Lang eventually becomes a tragic figure in Smallville.",1,5,1,1
+15,what kind of equipment did isaac newton use?,don't know,Reflecting telescope,"Robert Hooke conducted experiments.
+
+Hobbes was known as a scientist in optics.
+
+Robert Hooke made little mechanical toys.
+
+Hobbes was a scientist in his own right.
+
+Robert Hooke built the vacuum pumps used in Boyle's experiments on gas law.",1,1,1,1
+16,what did african americans do during the revolutionary war?,served as soldiers,Continental Army Regiment,"Many African Americans served during the American Revolution.
+
+Learn about some African Americans who fought in the American Revolution.
+
+During the American Revolution, African American men fought in the Continental Army.
+
+Black men served as soldiers in the Revolutionary War.
+
+People of African descent fought on both sides of the Revolutionary War.",1,5,5,4
+17,who is lamar odom playing for this year?,I don't know.,Los Angeles Clippers,"Lamar Odom
+
+Lamar Odom played for the Los Angeles Lakers in the National Basketball Association (NBA).
+
+Lamar Odom is an American former professional basketball player.
+
+Lamar Odom played the 2003-04 season with the Miami Heat.
+
+Lamar Odom was traded to the Lakers.",1,1,1,1
+18,where did frank baum die?,"May 6, 1919.",Hollywood,"Lyman Frank Baum died on May 6, 1919.
+
+Maurd Gage Baum died on March 6, 1953.
+
+Lyman Frank Baum was an American author.
+
+L. Frank Baum preferred his middle name 'Frank'.
+
+In 1953, Maud Gage Baum died at 91 years of age.",1,1,5,4
+19,which country won the crimean war?,Britain,Russian Empire,"The Crimean War was fought between Russia, Britain, France, and the Ottoman Empire.
+
+The Crimean War ended favourably for Britain and members of its fellow alliance.
+
+The Crimean War lasted from 1854 until 1856.
+
+The Crimean War was fought by an alliance of Britain, France, Turkey, and Sardinia against Russia.
+
+The Crimean War was fought from October 1853 to February 1856.",1,1,1,4
+20,who formed the american federation of labor?,"The craft unions established the American Federation of Labor. However, for the specific individual who became its first president, the documents do not provide a name.",Samuel Gompers,"The craft unions established the American Federation of Labor.
+
+The person became the first president of the American Federation of Labor.
+
+The American Federation of Labor was a national federation of labor unions in the United States.
+
+The American Federation of Labor was organized as an association of trade unions in 1886.
+
+In 1881, a person helped found the Federation of Organized Trades and Labor Unions.",2,4,3,1
+21,what team does jordan own?,Charlotte Hornets,Jordan national football team,"As part of the deal, Michael Jordan still has a minority stake in the team.
+
+Michael Jordan has owned the Charlotte Hornets for the past 13 years.
+
+Jordan has a series of other ventures.
+
+Michael Jordan said in a news release that it was a tremendous honor to own the Hornets.
+
+Michael Jordan was the best former player to ever own a team.",1,1,5,4
+22,what was dr seuss's real name?,Ted Geisel,Theodor Robert Geisel,"Ted Geisel is also known as Dr. Seuss.
+
+The film is based on the 1954 book of the same name by Dr. Seuss.
+
+The special is based on the 1957 children's book of the same name by Dr. Seuss.
+
+L. Frank Baum preferred his middle name 'Frank'.
+
+The film was the third Dr. Seuss feature film adaptation.",2,1,5,4
+23,what sri lanka capital?,Colombo,Sri Jayawardenapura Kotte,"The Colombo town seat alternated between the Tamils and the Sinhalese.
+
+Sri Lanka is officially a Buddhist country.
+
+Sri Lanka gained independence from the British Empire in 1948.
+
+Sri Lankans practice a variety of religions.
+
+Theravada Buddhism is the official religion of Sri Lanka.",1,1,5,2
+24,what electorate does anna bligh represent?,South Brisbane,Electoral district of South Brisbane,"Anna Bligh served as a senior Minister in the Beattie government.
+
+After distribution of preferences, Anna Bligh received a total of 14,697 votes (65% of the total).
+
+Anna Bligh received 12,243 first preference votes in her electorate of South Brisbane (48% of the total).
+
+The author decided to see how Campbell Newman's numbers in the Brisbane City Council elections in 2008 stacked up against Anna Bligh's numbers in the 2009 state election.
+
+Peter Wellington said Anna Bligh supported Peter Wellington's call for a whole range of new services in his electorate.",1,1,5,2
+25,what form of currency does china have?,Coins and banknotes.,Renminbi,"The currency in China consists of various coins and banknotes.
+
+The Chinese currency has its own banknotes and coins.
+
+Coins and banknotes are used in Chinese currency.
+
+RMB is the name of China's currency.
+
+RMB is the name of China's currency.",1,1,5,2
+26,who did granville t. woods married?,Sadie Turner,Loretta Woods,"Granville T. Woods was married to Ada Woods.
+
+Granville Woods got married in 1890.
+
+Granville T. Woods married in Cincinnati in 1880.
+
+Granville T. Woods married Sadie Turner in June 1880.
+
+Granville T. Woods' occupation was listed as Church Sexton.",1,1,5,1
+27,who does jeremy lin play for?,New Taipei Kings,Houston Rockets,"Jeremy Lin played for the Houston Rockets, Los Angeles Lakers, Charlotte Hornets, Brooklyn Nets, Atlanta Hawks, and Toronto Raptors.
+
+Jeremy Shu-How Lin plays for the New Taipei Kings of the Taiwan Professional Basketball League (TPBL).
+
+Jeremy Shu-How Lin is a Taiwanese-American professional basketball player.
+
+Jeremy Lin experienced some success in Houston and Charlotte.
+
+Jeremy Lin became an All-Star in the Chinese Basketball Association (CBA).",1,1,5,4
+28,what is arkansas state capitol?,I don't know.,Little Rock,"The Louisiana State Capitol is located in downtown Baton Rouge.
+
+The Louisiana State Capitol is the seat of government for the U.S. state of Louisiana.
+
+There have been three State Capitol buildings.
+
+The capitol also houses the office of the Governor of Louisiana.
+
+The capitol houses the chambers for the Louisiana State Legislature.",1,1,1,1
+29,what language do serbs speak?,Serbian,Serbian language,"Serbian is mainly used by Serbs.
+
+The official language in Serbia is Serbian.
+
+Serbia has many minority languages.
+
+The top three languages spoken in Serbia are Serbian, English, and Croatian.
+
+Serbian is the official and national language of Serbia.",3,3,5,5
+30,what money do i use in costa rica?,"Use Costa Rican colones (CRC). While US dollars are widely accepted, it's advisable to have some colones for smaller transactions or in more rural areas where US dollar acceptance may be limited.",Costa Rican colón,"Using US Cash US dollars are widely accepted in Costa Rica.
+
+Dollars are widely accepted in Costa Rica.
+
+US dollars are widely accepted in Costa Rica.
+
+US dollars are widely accepted in Costa Rica.
+
+Do Costa Rica take US dollars?",5,4,5,5
+31,when did the libyan conflict start?,I don't know.,2011,"Main navigation Civil Conflict in Libya.
+
+The war was fought in Libya among a number of armed groups.
+
+Libyan involvement with Chad started in 1968 during the Chadian Civil War.
+
+The Libyan civil war was a multilateral civil war.
+
+Britannica provides a guide to recent events in Libya.",1,1,1,1
+32,who plays edward scissorhands?,"Donovan Leitch, known professionally as Johnny Depp.",Johnny Depp,"The plot of Edward Scissorhands is similar to the movie.
+
+Edward Scissorhands is a story.
+
+The film version of Edward Scissorhands is set in the late 1980s.
+
+Edward Scissorhands was created by Matthew Bourne.
+
+Edward Scissorhands is a dance.",1,1,5,1
+33,where did buster posey go to high school?,Lee County High School,Leesburg,"Buster Posey Posey was an excellent high school shortstop and pitcher.
+
+Buster Posey was a junior at Lee County High School.
+
+Buster Posey III played four sports in high school.
+
+Buster Posey pitched and played shortstop at Lee County High School.
+
+Buster Posey Posey was the best Georgia high school player that season according to the award's selection committee.",5,1,5,4
+34,what is the name of king george vi wife?,Elizabeth,Queen Elizabeth The Queen Mother,"George VI was born during the reign of his great-grandmother Queen Victoria.
+
+Albert Frederick Arthur George took the regnal name George VI.
+
+Albert took the regnal name George VI.
+
+George VI died on 6 February 1952.
+
+George VI was born as Albert Frederick Arthur George on 14 December 1895.",1,1,5,1
+35,where does kurdish people live?,Kurdistan,Asia,"Kurds are an ethnic group who live in the northern Middle East.
+
+The majority of Kurds still live in Kurdistan.
+
+The traditional Kurdish way of life was nomadic.
+
+Kurds are one of the indigenous peoples of the Mesopotamian plains and the highlands in what are now south-eastern Turkey, north-eastern Syria, northern Iraq, north-western Iran, and south-western Armenia.
+
+Kurdistan is also known as 'Land of the Kurds'.",1,1,5,4
+36,what are members of the house of representatives called?,representatives,Representative,"Members of the House of Representatives are known properly as representatives.
+
+The House is composed of representatives.
+
+A representative is also referred to as a congressman or congresswoman.
+
+For most of the nation's history, members of the U.S. House of Representatives have been addressed as 'Congressman' or 'Congresswoman'.
+
+Learn more about representatives at The House Explained.",1,5,5,4
+37,who owns the portland press herald?,"The National Trust for Local News is the new owner of the Portland Press Herald and numerous other daily and weekly newspapers. Previously, Reade Brower was the owner.","Blethen Maine Newspapers, Inc.","Reade Brower is the owner of the Portland Press Herald and most of Maine's other daily newspapers.
+
+The National Trust for Local News is the new owner of the Portland Press Herald and numerous other daily and weekly newspapers.
+
+MaineToday Media is the parent company of the Press Herald, the Kennebec Journal, and Morning Sentinel.
+
+Masthead Maine is the newspapers' parent company.
+
+The Portland Press Herald is a daily newspaper based in South Portland, Maine.",3,1,3,1
+38,where was david berkowitz arrested?,Yonkers,New York City,"David Berkowitz was arrested on august 10th 1977.
+
+David Berkowitz was arrested on August 10, 1977.
+
+On August 10, David Berkowitz was arrested while leaving his Yonkers home.
+
+Berkowitz was arrested while leaving his home in Yonkers.
+
+Berkowitz was arrested while leaving his home in Yonkers.",1,1,5,4
+39,what countries does the panama canal go through?,Panama,Panama Canal Zone,"The Panama Canal is owned and administered by Panama.
+
+The Panama Canal is a constructed waterway.
+
+The Panama Canal connects the Atlantic and Pacific oceans across the Isthmus of Panama.
+
+The Republic of Panama owns and administers the Panama Canal.
+
+The Panama Canal connects an additional 220 ports and 10 countries.",1,1,1,3
+40,who did woody harrelson play on cheers?,Woody Boyd,Woody Boyd,"Woody Harrelson played Woody Boyd in Cheers.
+
+Woody Harrelson played bartender Woody Boyd in Cheers.
+
+Woody Harrelson is widely known for his work on the NBC sitcom Cheers.
+
+Woody Harrelson joined the cast of Cheers in 1985 in season four.
+
+Woody Harrelson was nominated for five Emmy Awards for his role in Cheers.",5,1,5,5
+41,who plays bob kelso in scrubs?,Ken Jenkins,Ken Jenkins,"Robert 'Bob' Kelso is a fictional character played by Ken Jenkins in the American comedy-drama Scrubs.
+
+Bob Kelso was born in 1942 in
+
+Bob Kelso suffers from a sexually transmitted disease.
+
+Bob Kelso's father was a doctor.
+
+Bob Kelso gives lip service to patients' well-being.",5,1,5,4
+42,what college did joakim noah?,I don't know.,University of Florida,"Joakim Noah played at Poly Prep his junior season.
+
+Joakim Noah was born in New York.
+
+Joakim Noah transferred to Lawrenceville, a prep school five miles outside of Princeton, N.J., for his senior season.
+
+Joakim Noah averaged 24.0 points and 12.0 rebounds during his senior season.
+
+Joakim Noah averaged 24.0 points, 12.0 rebounds, and 5.0 blocked shots during his junior season.",1,1,1,4
+43,what is los angeles california time zone?,Pacific Time Zone,Pacific Time Zone,"The analog html clock always displays correct current local time for Los Angeles, California.
+
+Get Free Website Html Clock for Los Angeles Online Html clock provided by 24TimeZones.com is a nice and fancy website widget.
+
+You can adjust color and size of your Los Angeles clock.
+
+East Los Angeles is an unincorporated area situated within Los Angeles County, California, United States.
+
+South Los Angeles is also known as South Central Los Angeles or simply South Central.",1,5,5,1
+44,what kind of products does nike sell?,"athletic footwear, apparel, equipment, and accessories.",Athletic Shoes & Apparel,"NIKE sells a line of equipment and accessories under the NIKE Brand name.
+
+Nike markets several products under its own brand.
+
+NIKE, Inc. is engaged in the designing, marketing and distributing of athletic footwear, apparel, equipment and accessories and services for sports and fitness activities.
+
+Nike is a major supplier of sports equipment.
+
+Nike generates its sales from three main business segments: footwear, apparel, and equipment.",4,5,5,4
+45,what guitar did joe walsh play?,I don't know.,Fender Stratocaster,"Joe Walsh acquired his first guitar at the age of 10.
+
+Joe Walsh began his career as a rock musician.
+
+Joe Walsh played guitar and lead vocals in James Gang.
+
+Joe Walsh decided that he wanted to pursue a career as a guitarist after learning the Ventures' 'Walk Don't Run'.
+
+Joseph Fidler Walsh is an American guitarist, singer, and songwriter.",1,1,1,2
+46,who does michael keaton play in cars?,Donkey,Chick Hicks,"Michael Keaton performed voice roles in the animated films Cars (2006), Toy Story 3 (2010), and Minions (2015).
+
+Michael Keaton is also in Herbie Fully Loaded as well as Cars.
+
+Michael Keaton is an American actor.
+
+Michael Keaton reprised
+
+Michael Keaton gained early recognition for his comedic roles in Night Shift (1982), Mr. Mom (1983), and Beetlejuice (1988).",1,1,1,4
+47,what is the government of france for 2010?,I don't know.,Constitutional republic,"France announced on March 10 that it would treat the council as Libya's legitimate government.
+
+The content of the map is in French.
+
+The Free French Provisional Government of the French was established after the liberation of France.
+
+Vichy France was officially the French State.
+
+Boselli formed a larger government along the lines of the French Union Sacree.",1,1,1,2
+48,what led to stalin rise in power?,successes in Georgia,"In 1912, Lenin, who was forced to flee the country, chose him to serve on the first Central Committee of the Bolshevik party, which had now broken from the Social Democrats.","Stalin played an important role in the coup d'etat.
+
+Stalin played an important role in the Bolshevik coup d'etat.
+
+Joseph Stalin's successes in Georgia propelled him into the ranks of the Politburo in late 1921.
+
+Stalin's position as secretary general of the Central Committee provided the power base for his dictatorship.
+
+Joseph Stalin",1,1,1,4
+49,who wrote st trinians?,"Frank Launder and Sidney Gilliat co-wrote ""The Belles of St Trinian's,"" which is part of the St. Trinian's series.",Ronald Searle,"St. Trinian's is a girls' school in England.
+
+The films are set in St Trinian's School.
+
+The film was the first of the St. Trinian's series.
+
+Frank Launder co-wrote The Belles of St Trinian's with Sidney Gilliat.
+
+St Trinian's is a 2007 British comedy film.",2,4,5,3
+50,what year did adam morrison get drafted?,2007,2006 NBA Draft,"Adam Morrison is an American former professional basketball player.
+
+Adam Morrison was a basketball player.
+
+Adam Morrison was not heavily recruited out of high school.
+
+Adam Morrison played for the L.A. Lakers from 2009 to 2010.
+
+Adam Morrison is unsigned.",1,1,5,1
+51,where did kennedy's inaugural address take place?,Capitol Hill,John F. Kennedy 1961 presidential inauguration,"APA citation style: President Kennedy delivers inaugural address on Capitol Hill, Washington, D.C. on 1/20.
+
+APA citation style: (1961) President Kennedy delivers inaugural address at Capitol Hill, Washington, D.C. 1/20.
+
+On January 20, 1961, President John F. Kennedy delivered his inaugural address.
+
+John F. Kennedy's inaugural address reflected his core beliefs and life experience.
+
+John F. Kennedy's inaugural address encompassed the major themes of his campaign.",1,1,5,4
+52,where did the second battle of ypres occur?,I don't know.,Belgium,"The First Battle of Ypres was fought on the Western Front around Ypres, in West Flanders, Belgium.
+
+The First Battle of Ypres was a battle of the First World War.
+
+The First Battle of Ypres was part of the First Battle of Flanders.
+
+North of Ypres, the fighting continued in the Battle of the Yser (16–31 October).
+
+The battles at Ypres began at the end of the Race to the Sea.",1,1,1,1
+53,where did kate gosselin grew up?,I don't know.,Philadelphia,"Leona Elizabeth Loftus came from McKees Rocks.
+
+Brandi Glanville was raised in Sacramento, California.
+
+Elizabeth 'Betty' Broder had grown up as part of an impoverished family.
+
+At the age of 16, Brandi Glanville moved to Paris
+
+Maurd Gage Baum lived in Fayetteville, New York, with her aging parents.",1,1,1,1
+54,when will the world end mayans?,"December 21, 2012",2012,"December 21, 2012, is the day that many say the Maya predicted the world would end.
+
+According to some, the Maya had foreseen the apocalypse on December 21.
+
+The 1996 analysis was considered evidence that the Maya calendar had predicted the end of the world.
+
+New Age misinterpretations about the end of days were caused by the end of the Mayan calendar cycle.
+
+The Maya were expert timekeepers.",1,1,5,4
+55,who is nick lachey married to?,Vanessa Lachey,Vanessa Minnillo,"Nicholas Scott Lachey later starred in the reality series Newlyweds: Nick and Jessica with his then-wife, Jessica Simpson.
+
+Newlyweds: Nick and Jessica starred Nick Lachey and then-wife Jessica Simpson.
+
+Nicholas Scott Lachey co-hosted the Netflix shows Love Is Blind and The Ultimatum with his wife Vanessa Lachey.
+
+Nicholas Scott Lachey has worked closely with Drew Lachey.
+
+Nicholas Scott Lachey is the brother of singer and actor Drew Lachey.",1,1,5,1
+56,what team does mike fisher play for?,"Based on the provided information, Mike Fisher played for the Nashville Predators in the National Hockey League (NHL). However, the given text only mentions his playoff performance with the NHL team, without explicitly stating the team name. For precise team affiliation, refer to the most recent and accurate sports database or news source.",Nashville Predators,"Mike Fisher posted career playoff highs with 5 goals, 5 assists, and 10 points in 20 games.
+
+Derek Fisher played for the Golden State Warriors, Utah Jazz, Oklahoma City Thunder, and Dallas Mavericks.
+
+Derek Fisher re-signed
+
+Derek Fisher played professionally in the National Basketball Association (NBA) for 18 seasons.
+
+Derek Fisher signed as a free agent with the Golden State Warriors after the 2003-04 NBA season.",3,1,3,1
+57,who plays stephanie plum in one for the money?,Katherine Heigl,Katherine Heigl,"At the beginning of the first book, One for the Money, Stephanie Plum has been laid off from her job as a lingerie buyer.
+
+Katherine Heigl of Grey's Anatomy landed the role for the feature film, One for the Money.
+
+One for the Money is a 2012 American crime comedy film.
+
+Stephanie Plum often seeks alternative ways to earn money to pay her bills.
+
+Stephanie Plum's financial situation is partially due to her poor financial skills.",5,1,5,2
+58,where president obama was born?,Hawaii,Honolulu,"Barack Obama was born in Honolulu, Hawaii.
+
+Barack Obama was born on August 4, 1961 at the Kapiolani Maternity & Gynecological Hospital in Honolulu, Hawaii.
+
+Barack Obama Hussein Obama II was born on August 4, 1961, in Hawaii.
+
+Barack Obama was born on August 4, 1961.
+
+Barack Obama was born in Hawaii on August 4, 1961.",1,1,5,5
+59,what did shannon hoon die from?,cocaine overdose,Drug overdose,"Shannon Hoon died from a cocaine overdose in October 1995 at the age of 28.
+
+Shannon Hoon died from a fatal drug overdose two months after the album's release.
+
+Plenty has been written about the tragic death of Blind Melon's Shannon Hoon.
+
+The album's promotion was abruptly cut off after Shannon Hoon's death.
+
+Shannon Hoon recorded the birth of his daughter just months before his death.",1,5,5,4
+60,where is tyrese gibson from?,"Los Angeles, California",Watts,"Tyrese Darnell Gibson is from Los Angeles, California.
+
+Tyrese Gibson graduated from Locke High School in 1996.
+
+Tyrese Darnell Gibson is also known as Tyrese.
+
+Tyrese Gibson grew up in Watts on 113th Street during the late 80s.
+
+Tyrese Darnell Gibson is an American R&B singer, rapper, actor, former fashion model, and MTV VJ.",1,1,5,5
+61,where did paula deen go to school?,Albany High School,Albany High School,"Paula Deen went to Albany High School.
+
+Paula Deen graduated from Albany High School in 1965.
+
+Paula Deen graduated from Albany High School in 1965.
+
+Paula Deen grew up in southwestern Georgia.
+
+Paula Deen is an Albany native.",1,1,5,4
+62,what year was first world series?,1903,1903 World Series,"The First World Series is about Major League Baseball.
+
+Major League Baseball's first World Series game occurred on Oct. 1, 1903.
+
+The World Series was first played in 1903.
+
+In 1903, both teams were competing against one another in the first official 'World Series'.
+
+The grounds now occupied by Cabot Physical Education Center were used for the first World Series.",1,5,5,5
+63,what is malaysian currency?,Malaysian ringgit.,Malaysian ringgit,"The Malaysian ringgit is the currency of Malaysia.
+
+The Malaysian ringgit is the official currency of Malaysia.
+
+The Malaysian ringgit is the official currency of Malaysia.
+
+The Malaysian dollar was issued by the new central bank, Central Bank of Malaysia.
+
+The Malaysian dollar was issued by the new central bank, Central Bank of Malaysia.",1,1,5,1
+64,who do pagans worship?,pre-Christian gods and goddesses,Odin,"Some pagans
+
+Paganism worships the old pre-Christian gods and goddesses through seasonal festivals and other ceremonies.
+
+Paganism believes that nature is sacred.
+
+Paganism is related to pangere.
+
+Some modern pagan religions are monotheistic.",2,1,5,3
+65,who plays king julian madagascar?,Jeff Bennett,Sacha Baron Cohen,"Alex is a primary character in Madagascar.
+
+Jeff Bennett plays the lemur King Julien.
+
+This is a list of characters from the DreamWorks Animation franchise of Madagascar films and TV shows.
+
+Andy Richter plays the lemur King Julien.
+
+Kevin Michael Richardson plays the lemur Mort.",1,1,5,4
+66,what is the name of the currency used in switzerland?,Swiss franc,Swiss franc,"The currency in Switzerland is the Swiss franc.
+
+Swiss currency services.
+
+Tips for exchanging currency in Switzerland.
+
+Once in Switzerland, you'll see the symbol CHF used to show prices.
+
+The Swiss franc is the currency and legal tender of Switzerland and Liechtenstein.",5,1,5,4
+67,what is the currency of brazil now?,Real,Brazilian real,"The Brazilian real is the official currency of Brazil.
+
+The currency in Brazil is called the Real (BRL).
+
+Exchanging Money in Rio has several different exchange rates.
+
+The Brazilian real experienced a significant devaluation amounting to 1 USD = 2 BRL.
+
+The Central Bank of Brazil is the central bank and the issuing authority of the Brazilian real.",4,1,5,4
+68,where is the mts iceplex in winnipeg?,downtown,Canada,"The arena was named MTS Centre as part of a naming rights agreement with Manitoba Telecom Services (MTS).
+
+The idea of Winnipeg returning to the NHL gained momentum after the MTS Centre opened.
+
+Canada Life Centre is an indoor arena in downtown Winnipeg, Manitoba, Canada.
+
+The arena is the home of the National Hockey League's Winnipeg Jets and their American Hockey League affiliate, the Manitoba Moose.
+
+The arena stands on the site of the former Eaton's Winnipeg store.",1,1,1,2
+69,what is the state name of new york city?,New York,New York,"New York is often called New York City or NYC.
+
+The primary nickname of New York City is The Empire State.
+
+New York City is frequently shortened to simply 'New York', 'NY', or 'NYC'.
+
+The City So Nice They Named It Twice is a reference to 'New York, New York' as both the city and state.
+
+New York City is also known as 'The City' in some parts of the Eastern United States.",1,1,5,5
+70,who was jesse james killed by?,Robert Ford,The Assassination of Jesse James by the Coward Robert Ford,"Jesse James died in 1882.
+
+Jesse James killed Robert Ford on April 3, 1882.
+
+Jesse James was shot and killed in a house on April 3, 1882.
+
+Jesse James was an outlaw.
+
+Jesse James died at the age of 34.",1,1,5,4
+71,what money to take to turkey?,Turkish lira.,Turkish lira,"There are typical costs to help you work out how much money you need to take to Turkey.
+
+How much Turkish lira should you take to Turkey?
+
+Make sure you have some lira on hand in Turkey.
+
+It's best to bring both cash and cards to Turkey.
+
+When deciding how much money to take to Turkey, factor in tips.",1,1,1,3
+72,what currency can you use in barbados?,Barbadian Dollar,Barbadian dollar,"FAQ: What is the currency in Barbados called?
+
+Where to get the official currency in Barbados.
+
+US currency is accepted across the island of Barbados.
+
+The official currency in Barbados is the Barbadian Dollar.
+
+The official currency in Barbados is the Barbadian Dollar.",1,5,5,2
+73,where did tony gonzalez play college basketball?,"University of California, Berkeley","University of California, Berkeley","Tony Gonzalez played basketball.
+
+Tony Gonzalez continued his basketball career at the University of California, Berkeley.
+
+In his junior year, Tony Gonzalez played in 28 games.
+
+The decision to choose between football and basketball was made for Tony Gonzalez.
+
+Tony Gonzalez chose to attend the University of California, Berkeley.",5,1,5,2
+74,where is olympic national park located?,"Washington, on the Olympic Peninsula.",Washington,"Olympic National Park is a national park of the United States.
+
+Olympic National Park is located in Washington, on the Olympic Peninsula.
+
+Olympic National Park is the largest wilderness area in Washington.
+
+The smaller coastal portion of Olympic National Park is s.
+
+The coastal portion of Olympic National Park has a strip of adjacent forest.",4,1,5,4
+75,where is president kennedy buried?,Arlington National Cemetery,Arlington National Cemetery,"John F. Kennedy is buried in a special grave at Arlington National Cemetery.
+
+Breadcrumb President Kennedy's Grave is located in Arlington National Cemetery.
+
+President John Fitzgerald Kennedy and two Kennedy infants are interred in Lot 45, Section 30, Arlington National Cemetery.
+
+JFK admired the view from the site selected for his grave.
+
+The president's permanent gravesite is a little further down the hill.",1,1,5,4
+76,where do burmese cats originate from?,Southeast Asia,Asia,"The Burmese cat originated in Burma.
+
+The Burmese cat originated in Burma.
+
+Burmese cats have their origins in Burma (now Myanmar) in Southeast Asia.
+
+Burmese cats have early origins in Southeast Asia.
+
+The Burmese cat is believed to have originated in Southeast Asia.",1,5,5,5
+77,what team does heskey play for?,Newcastle Jets,Newcastle Jets FC,"Emile Heskey is an English former professional footballer.
+
+Emile Heskey started his career with Leicester City.
+
+Emile Heskey represented England in international football.
+
+Emile Heskey played for the A-League club Newcastle Jets.
+
+Emile Heskey played as a striker.",1,1,5,5
+78,what is newcastle metro?,overground and underground light rail rapid transit system,Tyne and Wear,"The Metro is made up of overground and underground stations across Newcastle, Sunderland, Gateshead, and the coast.
+
+Monument Metro Station is in the heart of Newcastle city centre.
+
+The Metro is a quick, direct, and affordable way to travel between town centres across Tyne and Wear and Newcastle Airport.
+
+The Tyne and Wear Metro serves Newcastle upon Tyne, Gateshead, North Tyneside, South Tyneside, and the City of Sunderland.
+
+The Tyne and Wear Metro is an overground and underground light rail rapid transit system.",5,5,5,4
+79,who won the league cup in 2002?,Don't know.,Liverpool F.C.,"Portsmouth was the 2002-03 Football League First Division champion.
+
+The first matches of the 2002-03 FA Premier League were played on 17 August 2002.
+
+Manchester United 5-3 Newcastle United on 23 November 2002.
+
+Bolton Wanderers 4-3 Newcastle United on 26 December 2002.
+
+The run of unbeaten Premier League games ended at Old Trafford on 7 December 2002.",1,1,1,1
+80,what ocean is around hawaii?,Pacific Ocean,Pacific Ocean,"Hawaii is located in the Pacific Ocean.
+
+Hawaii's oceanic embrace opens up a world of aquatic adventures.
+
+Hawaii has turquoise waters stretching as far as the eye can see.
+
+The Pacific Ocean surrounding Hawaii is a thriving ecosystem teeming with life.
+
+There is a fundamental question that often goes unasked about the ocean Hawaii is in.",5,1,5,4
+81,when did kelly slater go pro?,1990,2008 ASP World Tour,"Kelly Slater turned pro at 18 years old.
+
+Kelly Slater turned pro in 1990.
+
+Kelly Slater turned pro in 1990.
+
+Kelly Slater turned professional in 1990.
+
+Kelly Slater qualified for the Bud Pro Tour.",1,5,5,5
+82,what sarah dessen books are movies?,Postcards from the Edge,The Truth About Forever,"The film is the fourth screen adaptation of the book.
+
+Her subsequent films include the superhero film Hulk (2003), the drama House of Sand and Fog (2003), the horror film Dark Water (2005), the psychological drama Little Children (2006), the thriller Blood Diamond (2006), the science fiction film The Day the Earth Stood Still (2008), and the romantic comedy He's Just Not That Into You (2009).
+
+The film is based on the 1954 book of the same name by Dr. Seuss.
+
+The novelization was published by Harcourt Brace simultaneously with the film's release.
+
+Carrie Frances Fisher wrote the screenplay for the film version of Postcards from the Edge.",1,5,5,4
+83,what happened to dunkirk during ww2?,evacuation,Battle of Dunkirk,"Dunkirk was the scene of a massive military campaign during World War II.
+
+Dunkirk was a critical turning point in World War II.
+
+Many historians say the battle at Dunkirk cost Germany the Second World War.
+
+Dunkirk tells of British and Allied troops trapped on a beach surrounded by enemy forces in 1940.
+
+The Dunkirk evacuation occurred in May-June 1940.",2,1,1,4
+84,where was auschwitz concentration camp located?,Oswiecim,Poland,"The Auschwitz concentration camp was located on the outskirts of Oswiecim in German-occupied Poland.
+
+Auschwitz
+
+Auschwitz concentration camp operated during World War II and the Holocaust.
+
+The Auschwitz concentration camp was originally established in 1940.
+
+Auschwitz was located in southern Poland.",1,1,5,4
+85,what rainforest is in south america?,Amazon,Amazon Basin,"The Amazon rainforest covers most of the Amazon basin of South America.
+
+Amazon rainforest spans eight South American countries.
+
+Nature and Culture International has projects and protected areas in rainforest ecosystems in many types of rainforest in South America.
+
+The Amazon rainforest once covered almost half the South American continent.
+
+The Amazon of South America is the world's largest rainforest and top region for biodiversity.",1,1,5,4
+86,what is michael kors best known for?,Fashion,Fashion Designer,"The mention marked the launch of a celebrity-driven go-to-market model.
+
+Eva Mozes Kor founded the organization CANDLES in 1984.
+
+Gerard Connelly was a clothing manufacturer.
+
+Some collaborations with various athletes and celebrities can be resold for well above their original retail price.
+
+Brandi Glanville has worked for well-known fashion brands and designers.",1,1,1,1
+87,what do portuguese people speak?,Portuguese,Portuguese,"Portuguese language has a long history.
+
+Some people think that Spanish is spoken in Portugal.
+
+Portuguese is spoken in Mozambique, Angola, Guinea-Bissau, Timor-Leste, Equatorial Guinea, Cape Verde, Sao Tome, and Principe.
+
+Portuguese language is conditioned by the existence of the groups that speak it.
+
+Portuguese language lives in history, society, and the world.",1,1,5,2
+88,what countries are members of the security council?,"Permanent Members: China, France, Russia, United Kingdom, United States
+
+Non-Permanent Members (as of 2023): Egypt, Mexico, Norway, Poland, South Africa, Spain, Sweden, Thailand, Turkey",Verdict on Kashmir,"Membership of the United Nations Security Council is held by the five permanent members and ten elected, non-permanent members.
+
+There are a total of 15 UN member states on the Security Council.
+
+There is a table of the current permanent members of the United Nations Security Council.
+
+Originally, there were 11 members of the Security Council.
+
+There were 5 permanent and 6 non-permanent members of the Security Council.",1,4,5,3
+89,where did holly madison get her breast implants?,I don't know.,United States of America,"The question is about how to get boobs like Holly Madison.
+
+Holly Madison speaks openly about her breast augmentation surgery.
+
+Holly Madison has heard about people getting body parts insured.
+
+Holly Madison insured her breasts to protect herself and others who appear in her Las Vegas production, 'Peepshow'.
+
+Holly Madison has reportedly insured her breasts for $1 million.",1,1,1,3
+90,who does kellan lutz play in prom night?,I don't know.,Mark Rider,"Prom is a Disney film.
+
+Aimeé Teegarden deals with love, heartbreak, and pressure from her parents in Prom.
+
+Aimeé Teegarden falls in love with the school bad boy Jesse Richter in Prom.
+
+In 2011, Aimeé Teegarden starred opposite Thomas McDonell in the Disney film Prom.
+
+Prom is an overachieving high school senior bound for Georgetown University after graduation.",1,1,1,1
+91,what year did the baltimore ravens win superbowl?,2000,2000 NFL season,"The Ravens made their second Super Bowl appearance in franchise history.
+
+The Ravens made their second Super Bowl appearance in franchise history.
+
+The Ravens previously won Super Bowl XXXV.
+
+The Ravens had previously won Super Bowl XXXV.
+
+The Ravens became the second wild card team to win the Super Bowl in four years.",1,1,5,4
+92,what county is san diego ca?,San Diego County,San Diego County,"San Diego County's county seat is San Diego.
+
+San Diego is the seat of San Diego County.
+
+San Diego County has colorful neighborhoods and communities.
+
+San Diego County was one of the original counties of California.
+
+San Diego County is a border county.",5,1,5,3
+93,who was king george vi married to?,Youdon'tknow.,Queen Elizabeth The Queen Mother,"George VI was born during the reign of his great-grandmother Queen Victoria.
+
+George VI was born during the reign of his great-grandmother Queen Victoria.
+
+George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952.
+
+George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952.
+
+Albert Frederick Arthur George took the regnal name George VI.",1,1,1,1
+94,what football team is michael vick on?,free agent,Philadelphia Eagles,"Michael Vick was the quarterback for the Atlanta Falcons football team at the time.
+
+Michael Vick is an American college football coach and former player.
+
+Michael Vick played college football at Virginia Tech.
+
+Michael Vick spent the 2016 season as a free agent.
+
+Michael Vick was selected first overall by the Atlanta Falcons in the 2001 NFL draft.",1,3,1,4
+95,what is the best tour to egypt?,Egypt Tours,eg,"Egypt vacation packages offer the best tours in Egypt & travel packages.
+
+Egypt tours are full of history, wonders, means of entertainment, adventures, and more.
+
+The speaker wants recommendations on tour companies for Egypt.
+
+Egypt Tours provides Egypt day tours & excursions.
+
+The tour visited many of Egypt's sites.",5,4,1,2
+96,what genre of art is the mona lisa?,portrait,Portrait,"The Mona Lisa was originally a type of portrait.
+
+The Mona Lisa is a portrait.
+
+The 'Mona Lisa' is a famous painting.
+
+The Mona Lisa has become an icon of the Renaissance.
+
+The title of the painting is known in English as Mona Lisa.",5,4,5,2
+97,what radio station is npr on in nyc?,WNYC,WNYC,"WNYC is listener-supported.
+
+Livestream WNYC FM 93.9 and AM 820.
+
+WNYC broadcasts live from New York City on 93.9 FM and AM 820.
+
+WNYC is the home for independent journalism and courageous conversation on air and online.
+
+WNYC is available online and on the go.",5,1,5,4
+98,who is the voice of kitt?,"William Daniels voiced the first KITT. For the second KITT, the voice actors recorded dialog later, and during filming, it was voiced by a script assistant.",Val Kilmer,"Voice actors recorded KITT's dialog later.
+
+During filming, KITT was voiced by a script assistant.
+
+The first KITT was voiced by William Daniels.
+
+KITT is the common name of two fictional characters from the action franchise Knight Rider.
+
+The second KITT appeared in the new series itself.",1,3,3,4
+99,when does daylight saving end in new zealand 2012?,Sunday 15 April 2012,nz,"Sunday 1 April 2012 is the start date for daylight savings time in New Zealand.
+
+NZ End DLS Date is the end date for daylight savings time.
+
+Daylight Savings Time New Zealand New Zealand has daylight.
+
+NZ Start DLS Year Start DLS Date is the end date for daylight savings time.
+
+Sunday 2 April 2017 is the start date for daylight savings time in New Zealand.",1,1,5,1
